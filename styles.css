@@ -1,0 +1,27 @@
+.idheader
+{
+	text-align: center;
+}
+
+.classnavigation
+{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	background-color: red;
+}
+
+.classnavigation a
+{
+	display: inline-block;
+	padding: 10px;
+}
+
+#imagemainpage
+{
+	text-align: center;
+	height: 100;
+	width: 100;
+	background-color: blue;
+}
